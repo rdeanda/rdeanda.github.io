@@ -30,6 +30,7 @@ ul {
 
 .r-main {
 	margin: 0 auto;
-	width: 1100px;
+	padding: 0 20px;
+	max-width: 1060px;
 }
 
